@@ -1,7 +1,7 @@
-# Introduction to data engineering
-This covers the data engineering semester of the seminar.
+# Introduction to data analaysis
+This covers the data analysis semester of the seminar.
 
-During this one semester semainr, targeted to an audiance with engineering background but little to no experience in modern data processing, we give a first introduction to some concepts of data processing. 
+During this one semester seminar, targeted to an audiance with engineering background but little to no experience in modern data processing, we give a first introduction to some selected concepts of data processing. 
 
 ## Topics
 
