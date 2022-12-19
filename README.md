@@ -1,4 +1,4 @@
-# Introduction to data analaysis
+# Introduction to data analysis
 This covers the data analysis semester of the seminar.
 
 During this one semester seminar, targeted to an audiance with engineering background but little to no experience in modern data processing, we give a first introduction to some selected concepts of data processing. 
