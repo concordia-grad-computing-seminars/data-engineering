@@ -8,7 +8,7 @@ During this one semester seminar, targeted to an audience with engineering backg
 1. Development environment: JupyterHub and GitHub
 2. Introduction to Python: functions, classes
 3. Introduction to data processing: NumPy, Pandas, DataFrames, MatPlotLib
-4. Regression models: Linear and multilinear regression
+4. Regression models: Linear and multi-linear regression
 5. Model selection and regularization: over/under fitting, re-sampling methods
-6. Classification models: K-nearest neighbours, support vector machines, logistic regression
+6. Classification models: K-nearest neighbors, support vector machines, logistic regression
 7. Tree based methods: Decision trees as classifiers/regression models, boosting, random forests
