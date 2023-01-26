@@ -12,3 +12,12 @@ During this one semester seminar, targeted to an audience with engineering backg
 5. Model selection and regularization: over/under fitting, re-sampling methods
 6. Classification models: K-nearest neighbors, support vector machines, logistic regression
 7. Tree based methods: Decision trees as classifiers/regression models, boosting, random forests
+
+## Development environment
+
+Use either
+
+* JupyterHub server from the Gina Cody School of engineering
+* [Jupyter/JupyerLab](https://jupyter.org/) installed on your machine
+* [Google Colab](https://colab.research.google.com/)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/concordia-grad-computing-seminars/data-engineering.git/HEAD)
