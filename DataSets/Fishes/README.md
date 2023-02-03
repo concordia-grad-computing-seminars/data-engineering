@@ -16,3 +16,15 @@
 | Length3     | Length from the nose to the end of the tail (in cm)        |
 | Height      | Maximal height as % of Length3                             |
 | Width       | Maximal width as % of Length3                              |
+
+```
+          ___/////___                  _
+         /           \    ___          |
+       /\             \_ /  /          H
+     <   )            __)  \           |
+       \/_\\_________/   \__\          _
+
+     |------- L1 -------|
+     |------- L2 ----------|
+     |------- L3 ------------|
+```
